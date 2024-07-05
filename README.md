@@ -4,7 +4,7 @@
 <h5>  [Homepage before login ]()            </h5>
 <h5>  [Homepage after login ]()            </h5>
 <h5>  [Society before login ]()            </h5>
-<h5>  [Society after login ]()            </h5>
+<h5>  [Society after login ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/society/society-after)            </h5>
 <h5>  [About before login ]()            </h5>
 <h5>  [About after login ]()            </h5>
 <h5>  [Batch  2026 ]()            </h5>
