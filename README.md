@@ -1,13 +1,14 @@
 <h3>   Here are the links to access the different pages    </h3>
 
 
-[Homepage before login ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/HomePage/home-page_before)            
-[Homepage after login ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/HomePage/home-page-after)            
-[Society before login ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/society/society_before)   
-[Society after login ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/society/society-after)          
-[About before login ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/About_Page1/about-before)   
-[About after login ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/About_Page1/about-after)            
-[Batch  2026 ]()            
-[Batch 2027 ]()            
-[Login/Signup page]()            
-[Edit Profile Page](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/profile_edit/)            
+[Homepage before login ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/HomePage/home-page_before) <br>           
+[Homepage after login ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/HomePage/home-page-after)  <br>          
+[Society before login ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/society/society_before)   <br>
+[Society after login ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/society/society-after)    <br>      
+[About before login ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/About_Page1/about-before)   <br>
+[About after login ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/About_Page1/about-after)    <br>        
+[Batch  2026 ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/Batch/batch-26)        <br>    
+[Batch 2027 ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/Batch/batch-27) <br>
+[Batch 2028 ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/Batch/batch-28)<br>
+[Login/Signup page](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/login_signup/)  <br>          
+[Edit Profile Page](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/profile_edit/)   <br>         
