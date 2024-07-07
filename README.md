@@ -15,7 +15,7 @@
 
 <br> [Loader 1 ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/Loader/loader1.html)  <br>  
 
-<br> [Loader  ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/Loader/loader2.html)  <br>  
+<br> [Loader 2 ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/Loader/loader2.html)  <br>  
 
 
 
