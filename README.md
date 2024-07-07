@@ -11,4 +11,11 @@
 <br> [Batch 2027 ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/Batch/batch-27) <br>
 <br> [Batch 2028 ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/Batch/batch-28)<br>
 <br> [Login/Signup page](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/login_signup/)  <br>          
-[Edit Profile Page](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/profile_edit/)   <br>         
+[Edit Profile Page](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/profile_edit/)   <br>   
+
+<br> [Loader 1 ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/Loader/loader1.html)  <br>  
+
+<br> [Loader  ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/Loader/loader2.html)  <br>  
+
+
+
