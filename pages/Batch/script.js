@@ -53,7 +53,7 @@ var cards = document.querySelectorAll('.card');
         // Automatically flip the card back after 5 seconds
         setTimeout(() => {
             card.classList.toggle('is-flipped');
-        }, 4000); // 5000 milliseconds = 5 seconds
+        }, 7000); // 5000 milliseconds = 5 seconds
     });
 });
 
