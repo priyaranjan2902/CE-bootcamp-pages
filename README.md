@@ -17,5 +17,7 @@
 
 <br> [Loader 2 ](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/Loader/loader2.html)  <br>  
 
+<br> [error Page](https://priyaranjan2902.github.io/CE-bootcamp-pages/pages/error_page)
+
 
 
